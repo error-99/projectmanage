@@ -1,0 +1,5 @@
+{
+  "name": "Airdrop Quest Manager",
+  "description": "A local-first airdrop project management tool for tracking tasks and profiles across multiple quests.",
+  "requestFramePermissions": []
+}

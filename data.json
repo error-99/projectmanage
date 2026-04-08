@@ -1,0 +1,52 @@
+{
+  "projects": [
+    {
+      "id": "p1",
+      "name": "Airdrop Quest - Testnet Phase 2",
+      "image": "https://picsum.photos/seed/airdrop/800/400",
+      "description": "Complete testnet tasks and earn 1000 $TOKEN airdrop. Limited time offer for early participants.",
+      "type": "testnet",
+      "network": "Ethereum Sepolia Testnet",
+      "status": "active",
+      "project_status": "pending",
+      "category": "DeFi",
+      "start_date": "2026-04-01",
+      "end_date": "2026-06-30",
+      "links": [
+        { "name": "🌐 Official Website", "url": "https://airdrop-quest.example.com" },
+        { "name": "🐙 GitHub Repository", "url": "https://github.com/airdrop-quest/contracts" }
+      ],
+      "telegram_posts": ["https://t.me/airdropquest/1"]
+    }
+  ],
+  "profiles": [
+    { "id": "1", "gmail": "tamanna404703@gmail.com", "profile_name": "profile main" },
+    { "id": "2", "gmail": "mimru1245@gmail.com", "profile_name": "Profile 1" },
+    { "id": "3", "gmail": "nahidulff0@gmail.com", "profile_name": "Profile 4" },
+    { "id": "4", "gmail": "errorx.x404703@gmail.com", "profile_name": "Profile 5" },
+    { "id": "5", "gmail": "likeaxelx@gmail.com", "profile_name": "Profile 6" },
+    { "id": "6", "gmail": "habubiakin@gmail.com", "profile_name": "Profile 7" },
+    { "id": "7", "gmail": "sakibrth961@gmail.com", "profile_name": "Profile 8" },
+    { "id": "8", "gmail": "mimkhank35@gmail.com", "profile_name": "Profile 9" },
+    { "id": "9", "gmail": "mibeshifa@gmail.com", "profile_name": "Profile 10" },
+    { "id": "10", "gmail": "missvoufe@gmail.com", "profile_name": "Profile 11" },
+    { "id": "11", "gmail": "hsiysiwantto@gmail.com", "profile_name": "Profile 12" },
+    { "id": "12", "gmail": "thismsr01@gmail.com", "profile_name": "Profile 13" },
+    { "id": "13", "gmail": "shannudscfs@gmail.com", "profile_name": "Profile 14" },
+    { "id": "14", "gmail": "msr404703@gmail.com", "profile_name": "Profile 15" },
+    { "id": "15", "gmail": "itsmsr8@gmail.com", "profile_name": "Profile 16" },
+    { "id": "16", "gmail": "thismsrff1@gmail.com", "profile_name": "Profile 17" },
+    { "id": "17", "gmail": "nothing404703@gmail.com", "profile_name": "Profile 20" },
+    { "id": "18", "gmail": "jibonbinance9@gmail.com", "profile_name": "Profile 22" }
+  ],
+  "tasks": {
+    "p1": [
+      { "id": "t1", "task_name": "Daily Check-in", "link": "https://airdrop-quest.example.com/checkin", "is_daily": true },
+      { "id": "t2", "task_name": "Swap Test Tokens", "link": "https://testnet.uniswap.org/swap", "is_daily": false },
+      { "id": "t3", "task_name": "Deploy Smart Contract", "link": "https://remix.ethereum.org", "is_daily": false }
+    ]
+  },
+  "logs": [],
+  "notes": {},
+  "categories": ["DeFi", "L2", "NFT", "Gaming", "Infrastructure"]
+}
